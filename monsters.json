@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Godzilla",
+        "location": "Tokyo, Japan",
+        "films": "Godzilla Franchise",
+        "image":"https://tuhakarainab.github.io/content_hosting/godzilla.jpg"
+    },
+    {
+        "name": "King Kong",
+        "location": "Skull Island",
+        "films": "King Kong Films and Legendary Monster Films",
+        "image":"https://tuhakarainab.github.io/content_hosting/king_kong.jpg"
+    },
+    {
+        "name": "Queen Xenomorph",
+        "location": "LV426",
+        "films": "Aliens",
+        "image":"https://tuhakarainab.github.io/content_hosting/queen_xenomorph.jpg"
+    },
+    {
+        "name": "Shai-Hulud",
+        "location": "Arrakis",
+        "films": "Dune",
+        "image":"https://tuhakarainab.github.io/content_hosting/shai_hulud"
+    },
+    {
+        "name": "Jaws",
+        "location": "Amity Island",
+        "films": "Jaws Franchise",
+        "image":"https://tuhakarainab.github.io/content_hosting/jaws.jpg"
+    }
+
+]
